@@ -1,7 +1,9 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import RenderData from "./components/RenderData.vue";
+</script>
 
 <template>
-  <h1>init</h1>
+  <RenderData></RenderData>
 </template>
 
 <style></style>
